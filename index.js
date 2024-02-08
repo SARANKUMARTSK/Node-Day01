@@ -99,8 +99,4 @@ app.get('/retrieve' , (req,res)=>{
     }
 })
 
-
-
-
-
 app.listen(PORT , ()=>console.log(`App is Listening ${PORT}`))
